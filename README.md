@@ -1,6 +1,3 @@
-
-<h1>Counter-Strike 2 Server Setup on Linux</h1>
-
 <h2>Overview</h2>
 <p>This guide provides a detailed process to set up a Counter-Strike 2 server on your local Linux machine. By following these steps, you'll have your server up and running in no time.</p>
 
